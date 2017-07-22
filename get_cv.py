@@ -93,7 +93,6 @@ def save_cv_into_file(cv_list, keywords, file_open_mode="w"):
 
 
 
-
 if __name__ == '__main__':
 
     page = 0
