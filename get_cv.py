@@ -85,27 +85,21 @@ def save_cv_into_file(cv_list, keywords, file_open_mode="w"):
                 cv_dict["has_degree"] = True
 
             cv_json_file.write(str(cv_dict))
-            cv_json_file.write('\n')
-            #cv_list_to_save.append(cv_dict)
-
-        #print("There are %s items found." % len(cv_list_to_save))    
-        #json.dump(cv_list_to_save, cv_json_file, ensure_ascii=False)            
+            cv_json_file.write('\n')         
 
 
 
 if __name__ == '__main__':
 
-    page = 0
     client_info = read_client_info()
     keywords = get_keywords()
     token = get_access_token(client_info)
     file_open_mode = "w"
-    while page < 5:
+    for page in range(5):
         cv_list = get_cv_data_by_keyword(client_info, token, keywords, page)
         if cv_list:
             save_cv_into_file(cv_list, keywords, file_open_mode)
         else:
             print("No CV for page %s" % page)
             break
-        page += 1
         file_open_mode = "a"
