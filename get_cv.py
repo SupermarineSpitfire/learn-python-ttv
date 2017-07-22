@@ -13,7 +13,7 @@
             'url': 'https://www.superjob.ru/resume/programmist-python-20379183.html',
         }
     ]
-    There is a restriction: max number of CV's returned is 20. 
+    There is a restriction: max number of CV's returned is 500: 100 for 1 page. 
 """
 
 
@@ -52,12 +52,13 @@ def get_keywords():
     return keywords
 
 
-def get_cv_data_by_keyword(client_info, token, keywords):
+def get_cv_data_by_keyword(client_info, token, keywords, page=0):
     url = client_info["url_to_get_cv_list"]
     params = {}
-    
-    for keyword in keywords:
-        params["keyword"] = keyword
+
+    params["keyword"] = keywords
+    params["count"] = 100
+    params["page"] = page
 
     access_token = "Bearer" + " " + token
     headers = {"Authorization": access_token, "X-Api-App-Id": client_info["client_secret"]}
@@ -66,11 +67,11 @@ def get_cv_data_by_keyword(client_info, token, keywords):
     return result.json()["objects"]
 
 
-def save_cv_into_file(cv_list, keywords):
+def save_cv_into_file(cv_list, keywords, file_open_mode="w"):
     cv_dict = {}
     #cv_list_to_save = []
 
-    with open("cv_list.json", "w") as cv_json_file:
+    with open("cv_list.json", file_open_mode) as cv_json_file:
 
         for cv in cv_list:
             cv_dict["title"] = cv["profession"]
@@ -88,14 +89,24 @@ def save_cv_into_file(cv_list, keywords):
             #cv_list_to_save.append(cv_dict)
 
         #print("There are %s items found." % len(cv_list_to_save))    
-        #json.dump(cv_list_to_save, cv_json_file, ensure_ascii=False)
+        #json.dump(cv_list_to_save, cv_json_file, ensure_ascii=False)            
+
 
 
 
 if __name__ == '__main__':
 
+    page = 0
     client_info = read_client_info()
     keywords = get_keywords()
     token = get_access_token(client_info)
-    cv_list = get_cv_data_by_keyword(client_info, token, keywords)
-    save_cv_into_file(cv_list, keywords)
+    file_open_mode = "w"
+    while page < 5:
+        cv_list = get_cv_data_by_keyword(client_info, token, keywords, page)
+        if cv_list:
+            save_cv_into_file(cv_list, keywords, file_open_mode)
+        else:
+            print("No CV for page %s" % page)
+            break
+        page += 1
+        file_open_mode = "a"
