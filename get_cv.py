@@ -39,7 +39,7 @@ def get_access_token(client_info):
             }
     result = requests.get(url, params=params)
     access_token = result.json()["access_token"]
-    #print(access_token)
+    print(access_token)
     return access_token
 
 
@@ -49,7 +49,7 @@ def get_keywords():
     keywords = entered_keywords.strip().split()
     for keyword in keywords:
         keyword.strip()
-    #print(keywords)
+    print(keywords)
     return keywords
 
 
@@ -64,19 +64,26 @@ def get_cv_data_by_keyword(client_info, token, keywords, page=0):
     access_token = "Bearer" + " " + token
     headers = {"Authorization": access_token, "X-Api-App-Id": client_info["client_secret"]}
     result = requests.get(url, headers=headers, params=params)
-    #print(result)
+    print(result)
     return result.json()["objects"]
 
 
 def save_cv_into_file(cv_list, keywords, file_open_mode="w"):
     cv_list_to_save = []
+    cv_dict = {}
 
-    for cv in cv_list: 
-        cv_list_to_save.append(produce_dictionary(cv, keywords))
+    for cv in cv_list:
+        try:
+            cv_dict = produce_dictionary(cv, keywords)
+        except:
+            print("Something went wrong when parsing CV: %s" % (str(cv)))
+            continue
+        cv_list_to_save.append(cv_dict)
 
     with open("cv_list.json", file_open_mode) as cv_json_file:     
         json.dump(cv_list_to_save, cv_json_file, ensure_ascii=False,  indent=4, sort_keys=True)
-    return cv_list_to_save, len(cv_list)
+
+    return cv_list_to_save
 
 
 def produce_dictionary(cv, keywords):
@@ -87,10 +94,17 @@ def produce_dictionary(cv, keywords):
     cv_dict["city"] = cv["town"]["title"]
     cv_dict["keywords"] = keywords
     cv_dict["url"] = cv["link"]
-    if cv["education"]["title"] == "Высшее":
+
+    try:
+        has_degree = cv["education"]["title"]
+    except:
+        has_degree = False  
+
+    if has_degree == "Высшее":
         cv_dict["has_degree"] = True
     else:
         cv_dict["has_degree"] = False
+
     return cv_dict
 
 
@@ -100,46 +114,57 @@ if __name__ == '__main__':
     keywords = get_keywords()
     token = get_access_token(client_info)
     file_open_mode = "w"
+    saved_cv_list = []
     complete_cv_list = []
-    number_of_cvs = 0
+    number_of_cv_list = 0
 
     for page in range(5):
         cv_list = get_cv_data_by_keyword(client_info, token, keywords, page)
         if cv_list:
-            saved_cv, number_of_cvs_per_page = save_cv_into_file(cv_list, keywords, file_open_mode)
-        else:
-            #print("No CV for page %s" % page)
-            break
+            saved_cv_list = save_cv_into_file(cv_list, keywords, file_open_mode)
+            number_of_cv_list += len(saved_cv_list)
+            complete_cv_list.extend(saved_cv_list)
+            if len(saved_cv_list) < 100:
+                print("Total number of CV's returned: %d" % number_of_cv_list)
+                break
         file_open_mode = "a"
-        complete_cv_list.extend(saved_cv)
-        number_of_cvs += number_of_cvs_per_page
-    print("Number of CV's returned: %d" % number_of_cvs)
     
     grouping_values_list = ["city", "title", "gender", "has_degree"]
     grouping_value = ""
-    
-    if saved_cv:
 
-        while grouping_value == "":
-            grouping_value = input("\nPlease specify grouping value\
-                                   \nGrouping is available by: age, city, title, gender, has_degree\
-                                   \nIf you want to exit please enter 'q' or 'Q': ")
-            grouping_value = grouping_value.strip()
 
-            if grouping_value.lower() == "q":
-                exit(0)
+    while grouping_value == "":
+        grouping_value = input("\nPlease specify grouping value\
+                                \nGrouping is available by: age, city, title, gender, has_degree\
+                                \nIf you want to exit please enter 'q' or 'Q': ")
+        grouping_value = grouping_value.strip()
 
-            elif grouping_value == "age":
-                analyze_cv.group_by_age(complete_cv_list)
-                grouping_value = ""
-                continue
+        if grouping_value.lower() == "q":
+            exit(0)
 
-            elif grouping_value not in grouping_values_list:
-                print("Grouping value is unavailable in the current list")
-                grouping_value = ""
-                continue
+        elif grouping_value == "age":
+            analyze_cv.group_by_age(complete_cv_list)
+            grouping_value = ""
+            continue
 
-            else:
+        elif grouping_value not in grouping_values_list:
+            print("Grouping value is unavailable in the current list")
+            grouping_value = ""
+            continue
+
+        elif grouping_value == "city":
+            filter_by_city = input("\nWould you like to view CV links by city? (y/n)")
+            if filter_by_city.lower() == 'y':
+                for item in analyze_cv.sort_links_by_city(complete_cv_list).items():
+                    print("\t\n", item)
+            elif filter_by_city.lower() == 'n':
                 analyze_cv.group_by_value(complete_cv_list, grouping_value)
                 grouping_value = ""
                 continue
+            else:
+                grouping_value = ""
+                continue
+        else:
+            analyze_cv.group_by_value(complete_cv_list, grouping_value)
+            grouping_value = ""
+            continue
