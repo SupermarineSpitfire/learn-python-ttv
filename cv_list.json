@@ -1,0 +1,5506 @@
+[
+    {
+        "age": 40,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик Qt, С++, SQL",
+        "url": "https://www.superjob.ru/resume/cv-7974503.html"
+    },
+    {
+        "age": 43,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Software developer, C++, C, Java, RTOS, Linux",
+        "url": "https://www.superjob.ru/resume/cv-8331779.html"
+    },
+    {
+        "age": 60,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, Delphi, ГИС",
+        "url": "https://www.superjob.ru/resume/cv-22179117.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Женский",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Стажёр-разработчик С++",
+        "url": "https://www.superjob.ru/resume/cv-35527548.html"
+    },
+    {
+        "age": 21,
+        "city": "Хабаровск",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-27109333.html"
+    },
+    {
+        "age": 32,
+        "city": "Коломна",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, тестировщик",
+        "url": "https://www.superjob.ru/resume/cv-38657944.html"
+    },
+    {
+        "age": 39,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист java, android, c#, c/c++, php",
+        "url": "https://www.superjob.ru/resume/cv-36852118.html"
+    },
+    {
+        "age": 24,
+        "city": "Саратов",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C#, C++, SQL, системный администратор",
+        "url": "https://www.superjob.ru/resume/cv-31862253.html"
+    },
+    {
+        "age": 59,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, электронщик",
+        "url": "https://www.superjob.ru/resume/cv-3389899.html"
+    },
+    {
+        "age": 50,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, руководитель проектов PC",
+        "url": "https://www.superjob.ru/resume/cv-8003937.html"
+    },
+    {
+        "age": 22,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер С#, C++",
+        "url": "https://www.superjob.ru/resume/cv-34060025.html"
+    },
+    {
+        "age": 52,
+        "city": "Рязань",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / SQL",
+        "url": "https://www.superjob.ru/resume/cv-38477705.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-36492249.html"
+    },
+    {
+        "age": 37,
+        "city": "Волгоград",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-34867609.html"
+    },
+    {
+        "age": 35,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Delphi, C++, MSSQL",
+        "url": "https://www.superjob.ru/resume/cv-38777943.html"
+    },
+    {
+        "age": 28,
+        "city": "Балашиха",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Qt/C++",
+        "url": "https://www.superjob.ru/resume/cv-39549923.html"
+    },
+    {
+        "age": 31,
+        "city": "Донецк (Донецкая область)",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-33293943.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Женский",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Техник-программист, программист-стажер, программист С++",
+        "url": "https://www.superjob.ru/resume/cv-39472366.html"
+    },
+    {
+        "age": 53,
+        "city": "Вологда",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-36586630.html"
+    },
+    {
+        "age": 47,
+        "city": "Краснодар",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик ПО автоматизированных систем в Object Pascal, SQL, C/C++ под лицензиями BSD, GNU GPL и с ними совместимыми",
+        "url": "https://www.superjob.ru/resume/cv-38988585.html"
+    },
+    {
+        "age": 35,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C# C++ MQL4",
+        "url": "https://www.superjob.ru/resume/cv-39284890.html"
+    },
+    {
+        "age": 49,
+        "city": "Керчь",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-39540828.html"
+    },
+    {
+        "age": 36,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/С++",
+        "url": "https://www.superjob.ru/resume/cv-39384874.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-25682748.html"
+    },
+    {
+        "age": 35,
+        "city": "Колпино",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист в команду разработки, тестирования, Python, C++, АСУ (Step7, WinCC), Arduino",
+        "url": "https://www.superjob.ru/resume/cv-39410459.html"
+    },
+    {
+        "age": 56,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист C++",
+        "url": "https://www.superjob.ru/resume/cv-38687772.html"
+    },
+    {
+        "age": 21,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист (Java, С++), тестировщик ПО, системный администратор",
+        "url": "https://www.superjob.ru/resume/cv-39478257.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C++ / Qt",
+        "url": "https://www.superjob.ru/resume/cv-33948326.html"
+    },
+    {
+        "age": 24,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-38507217.html"
+    },
+    {
+        "age": 20,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист, Программист C/C++, Инженер-программист, Программист-разработчик",
+        "url": "https://www.superjob.ru/resume/cv-39526467.html"
+    },
+    {
+        "age": 33,
+        "city": "Черкассы",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Програміст Oracle, SQL Server, C#, C++",
+        "url": "https://www.superjob.ru/resume/cv-15318838.html"
+    },
+    {
+        "age": 31,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ Junior",
+        "url": "https://www.superjob.ru/resume/cv-39040937.html"
+    },
+    {
+        "age": 25,
+        "city": "Краснодар",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C/C++, QT, Asembler, Prolog developer",
+        "url": "https://www.superjob.ru/resume/cv-39313323.html"
+    },
+    {
+        "age": 58,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик (Delphi, C++, JavaScript, СУБД MS SQL, ORACLE), руководитель проекта",
+        "url": "https://www.superjob.ru/resume/cv-39444595.html"
+    },
+    {
+        "age": 19,
+        "city": "Уфа",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Работник торгового зала, помощник системного администратора, стажер c++",
+        "url": "https://www.superjob.ru/resume/cv-39518988.html"
+    },
+    {
+        "age": 33,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ Developer",
+        "url": "https://www.superjob.ru/resume/cv-38553986.html"
+    },
+    {
+        "age": 39,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C / С++ / Linux",
+        "url": "https://www.superjob.ru/resume/cv-35760473.html"
+    },
+    {
+        "age": 21,
+        "city": "Королев",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ / QT / C#",
+        "url": "https://www.superjob.ru/resume/cv-36099731.html"
+    },
+    {
+        "age": 24,
+        "city": "Симферополь",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ Junior Engineer",
+        "url": "https://www.superjob.ru/resume/cv-39143019.html"
+    },
+    {
+        "age": 19,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Web-программист / программист с++, delphi, java",
+        "url": "https://www.superjob.ru/resume/cv-39287600.html"
+    },
+    {
+        "age": 40,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, С#, SQL",
+        "url": "https://www.superjob.ru/resume/cv-37632901.html"
+    },
+    {
+        "age": 22,
+        "city": "Чайковский",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C#/C++",
+        "url": "https://www.superjob.ru/resume/cv-39502576.html"
+    },
+    {
+        "age": 21,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-39358176.html"
+    },
+    {
+        "age": 62,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист С / С++ / С#",
+        "url": "https://www.superjob.ru/resume/cv-30707683.html"
+    },
+    {
+        "age": 63,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++ / С#, ведущий программист, руководитель проекта программного обеспечения",
+        "url": "https://www.superjob.ru/resume/cv-30763694.html"
+    },
+    {
+        "age": 52,
+        "city": "Казань",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С#, C++, Delphi, Управляющий проектами",
+        "url": "https://www.superjob.ru/resume/cv-25431983.html"
+    },
+    {
+        "age": 33,
+        "city": "Балашиха",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-37287442.html"
+    },
+    {
+        "age": 34,
+        "city": "Севастополь",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / C++",
+        "url": "https://www.superjob.ru/resume/cv-39493848.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-26194959.html"
+    },
+    {
+        "age": 22,
+        "city": "Уфа",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-39474973.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ / php",
+        "url": "https://www.superjob.ru/resume/cv-37835641.html"
+    },
+    {
+        "age": 46,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Embedded systems, /RTOS /С /С++ /Python",
+        "url": "https://www.superjob.ru/resume/cv-2447089.html"
+    },
+    {
+        "age": 19,
+        "city": "Ярославль",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-39466490.html"
+    },
+    {
+        "age": 27,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ разработчик",
+        "url": "https://www.superjob.ru/resume/cv-36485945.html"
+    },
+    {
+        "age": 25,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-39452770.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++ C#",
+        "url": "https://www.superjob.ru/resume/cv-35129523.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior программист C++",
+        "url": "https://www.superjob.ru/resume/cv-39289260.html"
+    },
+    {
+        "age": 20,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Начинающий разработчик / Junior (Intern) Developer (С/С++)",
+        "url": "https://www.superjob.ru/resume/cv-39375988.html"
+    },
+    {
+        "age": 19,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / C++ / Python / VBA",
+        "url": "https://www.superjob.ru/resume/cv-39328048.html"
+    },
+    {
+        "age": 24,
+        "city": "Волгоград",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Cистемный администратор, программист ООП С++ / C#, программист 1С, стажёр, программист SAP / стажёр",
+        "url": "https://www.superjob.ru/resume/cv-33159138.html"
+    },
+    {
+        "age": 23,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / C++ Developer",
+        "url": "https://www.superjob.ru/resume/cv-35903475.html"
+    },
+    {
+        "age": 38,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист c++",
+        "url": "https://www.superjob.ru/resume/cv-30587274.html"
+    },
+    {
+        "age": 49,
+        "city": "Курск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, C#",
+        "url": "https://www.superjob.ru/resume/cv-39398549.html"
+    },
+    {
+        "age": 28,
+        "city": "Видное",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-22021083.html"
+    },
+    {
+        "age": 44,
+        "city": "Москва",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист c++",
+        "url": "https://www.superjob.ru/resume/cv-34811412.html"
+    },
+    {
+        "age": 24,
+        "city": "Казань",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажёр / программист С++, SQL",
+        "url": "https://www.superjob.ru/resume/cv-23311519.html"
+    },
+    {
+        "age": 32,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Ведущий программист C++",
+        "url": "https://www.superjob.ru/resume/cv-2819233.html"
+    },
+    {
+        "age": 26,
+        "city": "Калининград",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-39322331.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший разработчик C++ / Junior C++ Developer",
+        "url": "https://www.superjob.ru/resume/cv-38992281.html"
+    },
+    {
+        "age": 48,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, Java",
+        "url": "https://www.superjob.ru/resume/cv-123504.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / Программист-стажер C++ / Младший программист C++/ Помощник программиста C++",
+        "url": "https://www.superjob.ru/resume/cv-39258072.html"
+    },
+    {
+        "age": 62,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Ведущий программист С++",
+        "url": "https://www.superjob.ru/resume/cv-5437601.html"
+    },
+    {
+        "age": 22,
+        "city": "Волгоград",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Web-программист, Web-разработчик / Программист C++ / Разработчик игр",
+        "url": "https://www.superjob.ru/resume/cv-39293472.html"
+    },
+    {
+        "age": 31,
+        "city": "Магнитогорск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Java, C/C++, разработчик баз данных (СПБ)",
+        "url": "https://www.superjob.ru/resume/cv-29867630.html"
+    },
+    {
+        "age": 25,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "С/C++ Linux Assembler",
+        "url": "https://www.superjob.ru/resume/cv-39366196.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Стажер C++",
+        "url": "https://www.superjob.ru/resume/cv-39365049.html"
+    },
+    {
+        "age": 24,
+        "city": "Благовещенск (Амурская область)",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, программист с#",
+        "url": "https://www.superjob.ru/resume/cv-39358991.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-39357050.html"
+    },
+    {
+        "age": 60,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист С++",
+        "url": "https://www.superjob.ru/resume/cv-29447389.html"
+    },
+    {
+        "age": 20,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Java, С++",
+        "url": "https://www.superjob.ru/resume/cv-39332168.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ / Qt",
+        "url": "https://www.superjob.ru/resume/cv-38371871.html"
+    },
+    {
+        "age": 53,
+        "city": "Королев",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Главный специалист по вычислительной математике / по валидации проекта / направления работ НИОКТР, Научный сотрудник / Ведущий инженер направления работ НИОКТР, Инженер-программист С++ / Delphi",
+        "url": "https://www.superjob.ru/resume/cv-37052856.html"
+    },
+    {
+        "age": 19,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер C++ / Младший программист / Помощник программиста",
+        "url": "https://www.superjob.ru/resume/cv-39276920.html"
+    },
+    {
+        "age": 40,
+        "city": "Краснодар",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/C++",
+        "url": "https://www.superjob.ru/resume/cv-23107109.html"
+    },
+    {
+        "age": 51,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист микроконтроллеров С/С++",
+        "url": "https://www.superjob.ru/resume/cv-37625253.html"
+    },
+    {
+        "age": 38,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист c++",
+        "url": "https://www.superjob.ru/resume/cv-39303645.html"
+    },
+    {
+        "age": 44,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, PHP, Perl, Jawa",
+        "url": "https://www.superjob.ru/resume/cv-26956507.html"
+    },
+    {
+        "age": 44,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-39126868.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-37352548.html"
+    },
+    {
+        "age": 22,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-38104229.html"
+    },
+    {
+        "age": 34,
+        "city": "Армавир (Краснодарский край)",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++",
+        "url": "https://www.superjob.ru/resume/cv-25641689.html"
+    },
+    {
+        "age": 30,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист java, Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-26557755.html"
+    },
+    {
+        "age": 28,
+        "city": "Новосибирск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-24299701.html"
+    },
+    {
+        "age": 36,
+        "city": "Одинцово",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-38733298.html"
+    },
+    {
+        "age": 23,
+        "city": "Энгельс",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист 1С, программист с++, инженер-программист, тестировщик",
+        "url": "https://www.superjob.ru/resume/cv-31540423.html"
+    },
+    {
+        "age": 56,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ / Delphi / PHP / PostgreSQL",
+        "url": "https://www.superjob.ru/resume/cv-36940892.html"
+    },
+    {
+        "age": 19,
+        "city": "Тарногский Городок",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++, Java, C#, на платформы linux, android, web",
+        "url": "https://www.superjob.ru/resume/cv-39212511.html"
+    },
+    {
+        "age": 33,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ разработчик",
+        "url": "https://www.superjob.ru/resume/cv-34209112.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-26968640.html"
+    },
+    {
+        "age": 62,
+        "city": "Долгопрудный",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-39196764.html"
+    }
+][
+    {
+        "age": 45,
+        "city": "Воронеж",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-36809176.html"
+    },
+    {
+        "age": 35,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-6872763.html"
+    },
+    {
+        "age": 54,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Менеджер проектов, программист C/C++/C#, Delphi, Assembler 16/32/64, PHP, SQL",
+        "url": "https://www.superjob.ru/resume/cv-9666895.html"
+    },
+    {
+        "age": 18,
+        "city": "Уфа",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-39225786.html"
+    },
+    {
+        "age": 21,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший программист C++ (Qt)",
+        "url": "https://www.superjob.ru/resume/cv-34746077.html"
+    },
+    {
+        "age": 21,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ (Qt)",
+        "url": "https://www.superjob.ru/resume/cv-38439001.html"
+    },
+    {
+        "age": 39,
+        "city": "Гюмри",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++, PHP, MySql",
+        "url": "https://www.superjob.ru/resume/cv-38338667.html"
+    },
+    {
+        "age": 55,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-31023385.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-35660485.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик С / С++",
+        "url": "https://www.superjob.ru/resume/cv-39096094.html"
+    },
+    {
+        "age": 29,
+        "city": "Саров",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-математик С++",
+        "url": "https://www.superjob.ru/resume/cv-38827197.html"
+    },
+    {
+        "age": 36,
+        "city": "Ростов-на-Дону",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-3278560.html"
+    },
+    {
+        "age": 46,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-разработчик C/C++/C#",
+        "url": "https://www.superjob.ru/resume/cv-34907955.html"
+    },
+    {
+        "age": 39,
+        "city": "Бельцы",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/C++",
+        "url": "https://www.superjob.ru/resume/cv-39153106.html"
+    },
+    {
+        "age": 35,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, python",
+        "url": "https://www.superjob.ru/resume/cv-39148125.html"
+    },
+    {
+        "age": 37,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, Delphi, Pascal",
+        "url": "https://www.superjob.ru/resume/cv-7593803.html"
+    },
+    {
+        "age": 43,
+        "city": "Череповец",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C# C++ Python",
+        "url": "https://www.superjob.ru/resume/cv-6602538.html"
+    },
+    {
+        "age": 19,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++",
+        "url": "https://www.superjob.ru/resume/cv-39064590.html"
+    },
+    {
+        "age": 45,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, SQL, тестер",
+        "url": "https://www.superjob.ru/resume/cv-36277437.html"
+    },
+    {
+        "age": 37,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-38962153.html"
+    },
+    {
+        "age": 27,
+        "city": "Ташкент",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C#, C++",
+        "url": "https://www.superjob.ru/resume/cv-37669275.html"
+    },
+    {
+        "age": 20,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++/ Python",
+        "url": "https://www.superjob.ru/resume/cv-32235888.html"
+    },
+    {
+        "age": 18,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ разработчик, стажер C++",
+        "url": "https://www.superjob.ru/resume/cv-39087388.html"
+    },
+    {
+        "age": 34,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C / C++",
+        "url": "https://www.superjob.ru/resume/cv-36175376.html"
+    },
+    {
+        "age": 44,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ / Junior",
+        "url": "https://www.superjob.ru/resume/cv-37791734.html"
+    },
+    {
+        "age": 25,
+        "city": "Обнинск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист C++",
+        "url": "https://www.superjob.ru/resume/cv-30895965.html"
+    },
+    {
+        "age": 30,
+        "city": "Обнинск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист c++",
+        "url": "https://www.superjob.ru/resume/cv-37640367.html"
+    },
+    {
+        "age": 53,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист C, C++, Linux, embedded, RTOS, микроконтроллеров",
+        "url": "https://www.superjob.ru/resume/cv-30743271.html"
+    },
+    {
+        "age": 38,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист, Инженер-электроник, Программист С++, Программист Delphi",
+        "url": "https://www.superjob.ru/resume/cv-4963539.html"
+    },
+    {
+        "age": 56,
+        "city": "Ереван",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Web-программист, Web-разработчик, программист С++",
+        "url": "https://www.superjob.ru/resume/cv-39016784.html"
+    },
+    {
+        "age": 62,
+        "city": "Протвино",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-36185714.html"
+    },
+    {
+        "age": 27,
+        "city": "Реутов",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/С++",
+        "url": "https://www.superjob.ru/resume/cv-39006632.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-38988266.html"
+    },
+    {
+        "age": 19,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер C++",
+        "url": "https://www.superjob.ru/resume/cv-38994128.html"
+    },
+    {
+        "age": 19,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-38724287.html"
+    },
+    {
+        "age": 19,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер C++",
+        "url": "https://www.superjob.ru/resume/cv-38924355.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-36404217.html"
+    },
+    {
+        "age": 40,
+        "city": "Пересвет",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-37787884.html"
+    },
+    {
+        "age": 60,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик Delphi, С/С++/C# (Win, Linux)",
+        "url": "https://www.superjob.ru/resume/cv-34074349.html"
+    },
+    {
+        "age": 39,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C, C++, С#, программист микроконтроллеров",
+        "url": "https://www.superjob.ru/resume/cv-34812666.html"
+    },
+    {
+        "age": 24,
+        "city": "Свердловский",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший программист C++",
+        "url": "https://www.superjob.ru/resume/cv-38512826.html"
+    },
+    {
+        "age": 58,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист С++",
+        "url": "https://www.superjob.ru/resume/cv-29127302.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер С++",
+        "url": "https://www.superjob.ru/resume/cv-31663585.html"
+    },
+    {
+        "age": 57,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ / Delphi",
+        "url": "https://www.superjob.ru/resume/cv-6592057.html"
+    },
+    {
+        "age": 27,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Java, С++, Accembler, системный администратор, тестировщик ПО",
+        "url": "https://www.superjob.ru/resume/cv-30401047.html"
+    },
+    {
+        "age": 18,
+        "city": "Краснодар",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++, Java, Assembler, Системный администратор",
+        "url": "https://www.superjob.ru/resume/cv-37985814.html"
+    },
+    {
+        "age": 40,
+        "city": "Александровское",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, C#",
+        "url": "https://www.superjob.ru/resume/cv-34521212.html"
+    },
+    {
+        "age": 29,
+        "city": "Уфа",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / QT",
+        "url": "https://www.superjob.ru/resume/cv-7931514.html"
+    },
+    {
+        "age": 27,
+        "city": "Екатеринбург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-20485981.html"
+    },
+    {
+        "age": 36,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-3979682.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-38839445.html"
+    },
+    {
+        "age": 36,
+        "city": "Евпатория",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-37987154.html"
+    },
+    {
+        "age": 38,
+        "city": "Раменское",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик Qt/C++",
+        "url": "https://www.superjob.ru/resume/cv-26832134.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-26041204.html"
+    },
+    {
+        "age": 38,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C#, T-SQL, C++",
+        "url": "https://www.superjob.ru/resume/cv-8577634.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист ПЛИС с Матлаб / С++",
+        "url": "https://www.superjob.ru/resume/cv-38819180.html"
+    },
+    {
+        "age": 29,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-4112217.html"
+    },
+    {
+        "age": 27,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, программист Java, программист Python",
+        "url": "https://www.superjob.ru/resume/cv-22140682.html"
+    },
+    {
+        "age": 55,
+        "city": "Люберцы",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Delphi, С++",
+        "url": "https://www.superjob.ru/resume/cv-31567038.html"
+    },
+    {
+        "age": 26,
+        "city": "Воронеж",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С, С++",
+        "url": "https://www.superjob.ru/resume/cv-36037572.html"
+    },
+    {
+        "age": 39,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист c++ builder",
+        "url": "https://www.superjob.ru/resume/cv-25764771.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/С++ в группу разработки",
+        "url": "https://www.superjob.ru/resume/cv-37496100.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++ в группу разработки",
+        "url": "https://www.superjob.ru/resume/cv-38618825.html"
+    },
+    {
+        "age": 22,
+        "city": "Энгельс",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior разработчик C#/C++",
+        "url": "https://www.superjob.ru/resume/cv-37767834.html"
+    },
+    {
+        "age": 33,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, C#, 3D (DirectX / GL), инженер",
+        "url": "https://www.superjob.ru/resume/cv-38693300.html"
+    },
+    {
+        "age": 35,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/С++",
+        "url": "https://www.superjob.ru/resume/cv-38728116.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C#, php, Java, C/C++",
+        "url": "https://www.superjob.ru/resume/cv-37451007.html"
+    },
+    {
+        "age": 26,
+        "city": "Руза",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-38715664.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/С++ в группу разработки",
+        "url": "https://www.superjob.ru/resume/cv-38715116.html"
+    },
+    {
+        "age": 20,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/C++",
+        "url": "https://www.superjob.ru/resume/cv-38703565.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Стажер по информационной безопасности, системный интегратор, программист С++ / С#, системный администратор",
+        "url": "https://www.superjob.ru/resume/cv-34839363.html"
+    },
+    {
+        "age": 46,
+        "city": "Воронеж",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Perl, C/C++, Баз Данных",
+        "url": "https://www.superjob.ru/resume/cv-35640149.html"
+    },
+    {
+        "age": 24,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C# / C++",
+        "url": "https://www.superjob.ru/resume/cv-33521980.html"
+    },
+    {
+        "age": 37,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-33193016.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Системный Программист / Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-38144965.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++ в группу разработки",
+        "url": "https://www.superjob.ru/resume/cv-38667917.html"
+    },
+    {
+        "age": 26,
+        "city": "Нижний Новгород",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-38635582.html"
+    },
+    {
+        "age": 27,
+        "city": "Старый Оскол",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/С++ в группу разработки",
+        "url": "https://www.superjob.ru/resume/cv-38618958.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-35405762.html"
+    },
+    {
+        "age": 31,
+        "city": "Богородицк",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист с, с++, с#",
+        "url": "https://www.superjob.ru/resume/cv-38181752.html"
+    },
+    {
+        "age": 37,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-38613776.html"
+    },
+    {
+        "age": 37,
+        "city": "Зеленоград",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-29909492.html"
+    },
+    {
+        "age": 27,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-10113617.html"
+    },
+    {
+        "age": 24,
+        "city": "Одинцово",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++ в группу разработки",
+        "url": "https://www.superjob.ru/resume/cv-38597256.html"
+    },
+    {
+        "age": 44,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-2297193.html"
+    },
+    {
+        "age": 26,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C/С++",
+        "url": "https://www.superjob.ru/resume/cv-36302553.html"
+    },
+    {
+        "age": 37,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++, C#",
+        "url": "https://www.superjob.ru/resume/cv-3108344.html"
+    },
+    {
+        "age": 59,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Senior software developer / Ведущий разработчик Java, C/C++",
+        "url": "https://www.superjob.ru/resume/cv-3802209.html"
+    },
+    {
+        "age": 26,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-30038231.html"
+    },
+    {
+        "age": 33,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Web разработчик / SEO-специалист / Cистемный администратор / Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-27604113.html"
+    },
+    {
+        "age": 30,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Python и С++ / junior",
+        "url": "https://www.superjob.ru/resume/cv-38390855.html"
+    },
+    {
+        "age": 23,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ developer",
+        "url": "https://www.superjob.ru/resume/cv-38561236.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист поддержки С++ / MS SQL",
+        "url": "https://www.superjob.ru/resume/cv-38233525.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Ведущий С/С++ разработчик",
+        "url": "https://www.superjob.ru/resume/cv-38525821.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-36387519.html"
+    },
+    {
+        "age": 22,
+        "city": "Ереван",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-38525419.html"
+    },
+    {
+        "age": 44,
+        "city": "Люберцы",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Python, С++",
+        "url": "https://www.superjob.ru/resume/cv-38290359.html"
+    },
+    {
+        "age": 53,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, С#, SQL",
+        "url": "https://www.superjob.ru/resume/cv-37503928.html"
+    },
+    {
+        "age": 21,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++",
+        "url": "https://www.superjob.ru/resume/cv-38508015.html"
+    },
+    {
+        "age": 27,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист, разработчик C++ / Qt",
+        "url": "https://www.superjob.ru/resume/cv-21079556.html"
+    }
+][
+    {
+        "age": 22,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C# / С++",
+        "url": "https://www.superjob.ru/resume/cv-33306342.html"
+    },
+    {
+        "age": 52,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-38401528.html"
+    },
+    {
+        "age": 40,
+        "city": "Москва",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер С++",
+        "url": "https://www.superjob.ru/resume/cv-38435245.html"
+    },
+    {
+        "age": 23,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/С++",
+        "url": "https://www.superjob.ru/resume/cv-30827529.html"
+    },
+    {
+        "age": 24,
+        "city": "Калуга",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист, программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-36167108.html"
+    },
+    {
+        "age": 52,
+        "city": "Ижевск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-разработчик C, Delphi, C++, MS SQL, Oracle, MongoDB, Firebird",
+        "url": "https://www.superjob.ru/resume/cv-8288822.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-34272865.html"
+    },
+    {
+        "age": 31,
+        "city": "Саратов",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-8524502.html"
+    },
+    {
+        "age": 70,
+        "city": "Раменское",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-37124162.html"
+    },
+    {
+        "age": 33,
+        "city": "Волгоград",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист PHP, С++, Delphi",
+        "url": "https://www.superjob.ru/resume/cv-32162278.html"
+    },
+    {
+        "age": 34,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-разработчик MATLAB / Mathematica / C++ / тестировщик ПО / инженер по качеству ПО",
+        "url": "https://www.superjob.ru/resume/cv-32039342.html"
+    },
+    {
+        "age": 39,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ Engine Developer",
+        "url": "https://www.superjob.ru/resume/cv-35431541.html"
+    },
+    {
+        "age": 39,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ Developer, технический директор",
+        "url": "https://www.superjob.ru/resume/cv-38108537.html"
+    },
+    {
+        "age": 40,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-38271999.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик Android, Разработчик C++, Разработчик Java",
+        "url": "https://www.superjob.ru/resume/cv-32156649.html"
+    },
+    {
+        "age": 59,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-25440641.html"
+    },
+    {
+        "age": 58,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-4399470.html"
+    },
+    {
+        "age": 53,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Java, PostgreSQL, HSQL, H2, Oracle, Automation Studio B&R, ANSI C, С++",
+        "url": "https://www.superjob.ru/resume/cv-29612280.html"
+    },
+    {
+        "age": 31,
+        "city": "Набережные Челны",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-29778472.html"
+    },
+    {
+        "age": 25,
+        "city": "Нижний Новгород",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер 1С, Программист-стажер С/С++, Программист-стажер Java",
+        "url": "https://www.superjob.ru/resume/cv-37442989.html"
+    },
+    {
+        "age": 31,
+        "city": "Курск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер, программист С++, программист 1с",
+        "url": "https://www.superjob.ru/resume/cv-8095419.html"
+    },
+    {
+        "age": 35,
+        "city": "Иркутск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, C#, SQL, системный администратор",
+        "url": "https://www.superjob.ru/resume/cv-27543344.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/C++ (junior)",
+        "url": "https://www.superjob.ru/resume/cv-35153379.html"
+    },
+    {
+        "age": 26,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Системный администратор, ассистент системного администратора, программист C++ / C#",
+        "url": "https://www.superjob.ru/resume/cv-5508567.html"
+    },
+    {
+        "age": 43,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-3576777.html"
+    },
+    {
+        "age": 41,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Web-программист, С, С++, Php Аssembler, MySQL, руководитель проекта",
+        "url": "https://www.superjob.ru/resume/cv-25692191.html"
+    },
+    {
+        "age": 31,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-28740129.html"
+    },
+    {
+        "age": 30,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C# / C++ / Qt / T-SQL / OpenGL",
+        "url": "https://www.superjob.ru/resume/cv-35878803.html"
+    },
+    {
+        "age": 21,
+        "city": "Уфа",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист c++, python, php, html, css, js",
+        "url": "https://www.superjob.ru/resume/cv-35233998.html"
+    },
+    {
+        "age": 24,
+        "city": "Ижевск",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-37570446.html"
+    },
+    {
+        "age": 38,
+        "city": "Кумертау",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, Программист C#, Программист 1С, Инженер АСУТП, Системный администратор, Руководитель",
+        "url": "https://www.superjob.ru/resume/cv-33192039.html"
+    },
+    {
+        "age": 32,
+        "city": "Омск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, С#, Инженер-программист",
+        "url": "https://www.superjob.ru/resume/cv-26964422.html"
+    },
+    {
+        "age": 25,
+        "city": "Чебоксары",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист c++, sql, специалист по глонасс системам",
+        "url": "https://www.superjob.ru/resume/cv-37315336.html"
+    },
+    {
+        "age": 61,
+        "city": "Минск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Ведущий программист С++, начальник сектора",
+        "url": "https://www.superjob.ru/resume/cv-33331192.html"
+    },
+    {
+        "age": 25,
+        "city": "Волгоград",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший Программист C / С++",
+        "url": "https://www.superjob.ru/resume/cv-38176717.html"
+    },
+    {
+        "age": 45,
+        "city": "Омск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-37958257.html"
+    },
+    {
+        "age": 22,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ developer",
+        "url": "https://www.superjob.ru/resume/cv-35152168.html"
+    },
+    {
+        "age": 19,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Помощник программиста С++",
+        "url": "https://www.superjob.ru/resume/cv-38206686.html"
+    },
+    {
+        "age": 24,
+        "city": "Красноярск",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-37676896.html"
+    },
+    {
+        "age": 21,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-38203106.html"
+    },
+    {
+        "age": 36,
+        "city": "Брянск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист (С, С++, Java), системный администратор",
+        "url": "https://www.superjob.ru/resume/cv-35025206.html"
+    },
+    {
+        "age": 37,
+        "city": "Нижневартовск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Администратор СУБД MS SQL, Oracle, Interbase / Firebird, Postgres, программист Delphi / С++ / Java",
+        "url": "https://www.superjob.ru/resume/cv-38194268.html"
+    },
+    {
+        "age": 23,
+        "city": "Звенигород",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++/C#",
+        "url": "https://www.superjob.ru/resume/cv-36192015.html"
+    },
+    {
+        "age": 20,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист с++",
+        "url": "https://www.superjob.ru/resume/cv-36334516.html"
+    },
+    {
+        "age": 32,
+        "city": "Владимир",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Delphi / C++",
+        "url": "https://www.superjob.ru/resume/cv-37767301.html"
+    },
+    {
+        "age": 32,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / Delphi",
+        "url": "https://www.superjob.ru/resume/cv-37772440.html"
+    },
+    {
+        "age": 28,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Помощник системного администратора / Младший системный аналитик / Стажёр web-разработчик / Стажёр-программист C / C++",
+        "url": "https://www.superjob.ru/resume/cv-33477333.html"
+    },
+    {
+        "age": 33,
+        "city": "Севастополь",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-38164781.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший программист-разработчик с++/с#",
+        "url": "https://www.superjob.ru/resume/cv-32146868.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист на C/C++",
+        "url": "https://www.superjob.ru/resume/cv-35758012.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-31008281.html"
+    },
+    {
+        "age": 48,
+        "city": "Азов",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик С++, SQL",
+        "url": "https://www.superjob.ru/resume/cv-30323926.html"
+    },
+    {
+        "age": 49,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ Windows",
+        "url": "https://www.superjob.ru/resume/cv-33495636.html"
+    },
+    {
+        "age": 27,
+        "city": "Снежинск",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик С++",
+        "url": "https://www.superjob.ru/resume/cv-38018655.html"
+    },
+    {
+        "age": 42,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик-архитектор Java/C/C++ приложений, системный аналитик",
+        "url": "https://www.superjob.ru/resume/cv-36335715.html"
+    },
+    {
+        "age": 25,
+        "city": "Лобня",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-27017162.html"
+    },
+    {
+        "age": 28,
+        "city": "Раменское",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший программист С++ / C#",
+        "url": "https://www.superjob.ru/resume/cv-36971574.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-37960857.html"
+    },
+    {
+        "age": 16,
+        "city": "Королев",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35789557.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / Qt / OpenGL",
+        "url": "https://www.superjob.ru/resume/cv-36331376.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-28051624.html"
+    },
+    {
+        "age": 63,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, JS, ASP.NET",
+        "url": "https://www.superjob.ru/resume/cv-24936979.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер С++",
+        "url": "https://www.superjob.ru/resume/cv-37183083.html"
+    },
+    {
+        "age": 31,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-8575871.html"
+    },
+    {
+        "age": 22,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/С++",
+        "url": "https://www.superjob.ru/resume/cv-36759588.html"
+    },
+    {
+        "age": 50,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-7251870.html"
+    },
+    {
+        "age": 53,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-5998158.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ Developer / Младший разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-37796213.html"
+    },
+    {
+        "age": 48,
+        "city": "Раменское",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Ведущий инженер-программист C / C++, Разработчик ПО",
+        "url": "https://www.superjob.ru/resume/cv-1473558.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/С++",
+        "url": "https://www.superjob.ru/resume/cv-37813265.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-34099011.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-37755889.html"
+    },
+    {
+        "age": 25,
+        "city": "Обнинск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Java / С++ / С#-стажер, программист-стажер",
+        "url": "https://www.superjob.ru/resume/cv-34746175.html"
+    },
+    {
+        "age": 22,
+        "city": "Раменское",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-35105424.html"
+    },
+    {
+        "age": 31,
+        "city": "Город за рубежом",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-37721402.html"
+    },
+    {
+        "age": 32,
+        "city": "Ульяновск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер по разработке аппаратуры авиационной / военной техники, программист C++",
+        "url": "https://www.superjob.ru/resume/cv-3850529.html"
+    },
+    {
+        "age": 41,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Chief Technology Officer / Software Architect / Project Manager / Lead Software Developer (C++)",
+        "url": "https://www.superjob.ru/resume/cv-3107552.html"
+    },
+    {
+        "age": 22,
+        "city": "Химки",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/С++",
+        "url": "https://www.superjob.ru/resume/cv-35816732.html"
+    },
+    {
+        "age": 30,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-4477273.html"
+    },
+    {
+        "age": 34,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++",
+        "url": "https://www.superjob.ru/resume/cv-37647584.html"
+    },
+    {
+        "age": 28,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-37630699.html"
+    },
+    {
+        "age": 32,
+        "city": "Бор",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-9982191.html"
+    },
+    {
+        "age": 55,
+        "city": "Симферополь",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-22077669.html"
+    },
+    {
+        "age": 49,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, архитектор",
+        "url": "https://www.superjob.ru/resume/cv-3098446.html"
+    },
+    {
+        "age": 22,
+        "city": "Киев",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ Developer",
+        "url": "https://www.superjob.ru/resume/cv-37551482.html"
+    },
+    {
+        "age": 23,
+        "city": "Нижний Новгород",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-34859949.html"
+    },
+    {
+        "age": 19,
+        "city": "Нижний Новгород",
+        "gender": "Женский",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++/JS, Администратор, Оператор ПК",
+        "url": "https://www.superjob.ru/resume/cv-37528559.html"
+    },
+    {
+        "age": 39,
+        "city": "Ростов-на-Дону",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-2431056.html"
+    },
+    {
+        "age": 32,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-34786647.html"
+    },
+    {
+        "age": 31,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик Python, C / C++",
+        "url": "https://www.superjob.ru/resume/cv-34640809.html"
+    },
+    {
+        "age": 45,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик программного обеспечения C / C++ для микроконтроллеров, приложений на JAVA-SE",
+        "url": "https://www.superjob.ru/resume/cv-2000668.html"
+    },
+    {
+        "age": 30,
+        "city": "Абакан",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, С#, SQL",
+        "url": "https://www.superjob.ru/resume/cv-37439664.html"
+    },
+    {
+        "age": 46,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-37181419.html"
+    },
+    {
+        "age": 45,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / C#",
+        "url": "https://www.superjob.ru/resume/cv-32763867.html"
+    },
+    {
+        "age": 35,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-6128211.html"
+    },
+    {
+        "age": 20,
+        "city": "Киев",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ Engineer",
+        "url": "https://www.superjob.ru/resume/cv-37355388.html"
+    },
+    {
+        "age": 22,
+        "city": "Дубна (Московская область)",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший программист, стажер C# / С++",
+        "url": "https://www.superjob.ru/resume/cv-37190662.html"
+    },
+    {
+        "age": 39,
+        "city": "Нижний Новгород",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик баз данных, NodeJS, C#, C++",
+        "url": "https://www.superjob.ru/resume/cv-4620294.html"
+    },
+    {
+        "age": 49,
+        "city": "Краснодар",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик С/С++",
+        "url": "https://www.superjob.ru/resume/cv-37233411.html"
+    },
+    {
+        "age": 21,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ developer",
+        "url": "https://www.superjob.ru/resume/cv-37304671.html"
+    }
+][
+    {
+        "age": 26,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-23713286.html"
+    },
+    {
+        "age": 31,
+        "city": "Нижневартовск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист, программист Java, PHP, Web, Flash, Python, Delphi, C#, C++",
+        "url": "https://www.superjob.ru/resume/cv-23455600.html"
+    },
+    {
+        "age": 21,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Java, C++, C#",
+        "url": "https://www.superjob.ru/resume/cv-37244907.html"
+    },
+    {
+        "age": 20,
+        "city": "Воронеж",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-37242467.html"
+    },
+    {
+        "age": 21,
+        "city": "Петергоф",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Стажер-разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-37227913.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C/C++",
+        "url": "https://www.superjob.ru/resume/cv-37200806.html"
+    },
+    {
+        "age": 35,
+        "city": "Ставрополь",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист 1С, C++, delphi",
+        "url": "https://www.superjob.ru/resume/cv-31842608.html"
+    },
+    {
+        "age": 22,
+        "city": "Ярославль",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-30707591.html"
+    },
+    {
+        "age": 28,
+        "city": "Наманган",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C#, C++, Delphi, Visual Basic",
+        "url": "https://www.superjob.ru/resume/cv-37168756.html"
+    },
+    {
+        "age": 27,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист С++",
+        "url": "https://www.superjob.ru/resume/cv-33316905.html"
+    },
+    {
+        "age": 23,
+        "city": "Сергиев Посад",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, QT",
+        "url": "https://www.superjob.ru/resume/cv-36374987.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ programmer",
+        "url": "https://www.superjob.ru/resume/cv-32465611.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-34427714.html"
+    },
+    {
+        "age": 57,
+        "city": "Ржев",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-37116281.html"
+    },
+    {
+        "age": 21,
+        "city": "Воронеж",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, Тестировщик",
+        "url": "https://www.superjob.ru/resume/cv-32136568.html"
+    },
+    {
+        "age": 37,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист / Разработчик ПО, C++",
+        "url": "https://www.superjob.ru/resume/cv-2074136.html"
+    },
+    {
+        "age": 31,
+        "city": "Белгород",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-5019823.html"
+    },
+    {
+        "age": 22,
+        "city": "Королев",
+        "gender": "Женский",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-35396024.html"
+    },
+    {
+        "age": 38,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Преподаватель компьютерных курсов программирования на С / С++",
+        "url": "https://www.superjob.ru/resume/cv-7782924.html"
+    },
+    {
+        "age": 42,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-37045166.html"
+    },
+    {
+        "age": 31,
+        "city": "Киев",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ Engineer / С++ Intern",
+        "url": "https://www.superjob.ru/resume/cv-30911155.html"
+    },
+    {
+        "age": 44,
+        "city": "Астрахань",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C / C++/Java / С#/Python",
+        "url": "https://www.superjob.ru/resume/cv-8463681.html"
+    },
+    {
+        "age": 26,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-27996018.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ developer",
+        "url": "https://www.superjob.ru/resume/cv-36924750.html"
+    },
+    {
+        "age": 32,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Java, Delphi, C++, разработка игрового ПО",
+        "url": "https://www.superjob.ru/resume/cv-34383452.html"
+    },
+    {
+        "age": 50,
+        "city": "Егорьевск",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Аналитик, программист, C++, PHP, JavaScript, Node.js, веб-разработчик, копирайтер",
+        "url": "https://www.superjob.ru/resume/cv-21700467.html"
+    },
+    {
+        "age": 37,
+        "city": "Куровское",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ Builder",
+        "url": "https://www.superjob.ru/resume/cv-36864024.html"
+    },
+    {
+        "age": 58,
+        "city": "Екатеринбург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C++ / Qt, Java SE / EE, PL / SQL, Oracle Apex",
+        "url": "https://www.superjob.ru/resume/cv-29274377.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/С++, junior developer",
+        "url": "https://www.superjob.ru/resume/cv-35743058.html"
+    },
+    {
+        "age": 30,
+        "city": "Томск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-30271799.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист java, C++ (стажер)",
+        "url": "https://www.superjob.ru/resume/cv-34395629.html"
+    },
+    {
+        "age": 21,
+        "city": "Днепропетровск",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ trainee",
+        "url": "https://www.superjob.ru/resume/cv-36758592.html"
+    },
+    {
+        "age": 27,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++/Qt",
+        "url": "https://www.superjob.ru/resume/cv-32056294.html"
+    },
+    {
+        "age": 31,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист c++",
+        "url": "https://www.superjob.ru/resume/cv-7589966.html"
+    },
+    {
+        "age": 24,
+        "city": "Краснодар",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-31685675.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший разработчик c/c++/c#",
+        "url": "https://www.superjob.ru/resume/cv-36699238.html"
+    },
+    {
+        "age": 31,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-35068425.html"
+    },
+    {
+        "age": 51,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, прикладной математик",
+        "url": "https://www.superjob.ru/resume/cv-36591557.html"
+    },
+    {
+        "age": 23,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-36634012.html"
+    },
+    {
+        "age": 26,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист c++",
+        "url": "https://www.superjob.ru/resume/cv-36440702.html"
+    },
+    {
+        "age": 35,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Senior C++ Developer UNIX",
+        "url": "https://www.superjob.ru/resume/cv-36606969.html"
+    },
+    {
+        "age": 41,
+        "city": "Днепропетровск",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C++ / C#",
+        "url": "https://www.superjob.ru/resume/cv-36603403.html"
+    },
+    {
+        "age": 56,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Delphi, C/C++, интернет трейдинг",
+        "url": "https://www.superjob.ru/resume/cv-3341289.html"
+    },
+    {
+        "age": 23,
+        "city": "Электросталь",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-36564413.html"
+    },
+    {
+        "age": 23,
+        "city": "Барнаул",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-36546266.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-29592172.html"
+    },
+    {
+        "age": 21,
+        "city": "Рязань",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C#, Java, C++, менеджер по подбору персонала, менеджер по работе с клиентами",
+        "url": "https://www.superjob.ru/resume/cv-36221428.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер C++",
+        "url": "https://www.superjob.ru/resume/cv-36495823.html"
+    },
+    {
+        "age": 21,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший программист С++",
+        "url": "https://www.superjob.ru/resume/cv-36495236.html"
+    },
+    {
+        "age": 36,
+        "city": "Чебоксары",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ Builder / менеджер проектов",
+        "url": "https://www.superjob.ru/resume/cv-3284071.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-36423918.html"
+    },
+    {
+        "age": 28,
+        "city": "Нижний Новгород",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер С++",
+        "url": "https://www.superjob.ru/resume/cv-36486690.html"
+    },
+    {
+        "age": 34,
+        "city": "Ростов-на-Дону",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / Qt",
+        "url": "https://www.superjob.ru/resume/cv-30312108.html"
+    },
+    {
+        "age": 19,
+        "city": "Ереван",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Java, C++",
+        "url": "https://www.superjob.ru/resume/cv-36478086.html"
+    },
+    {
+        "age": 28,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ / Qt",
+        "url": "https://www.superjob.ru/resume/cv-29865656.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ / Qt",
+        "url": "https://www.superjob.ru/resume/cv-36441339.html"
+    },
+    {
+        "age": 24,
+        "city": "Нижний Новгород",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Математик, программист С++, аналитик",
+        "url": "https://www.superjob.ru/resume/cv-34525984.html"
+    },
+    {
+        "age": 20,
+        "city": "Киев",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ Engineer",
+        "url": "https://www.superjob.ru/resume/cv-36416743.html"
+    },
+    {
+        "age": 29,
+        "city": "Худжанд",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, C#",
+        "url": "https://www.superjob.ru/resume/cv-25319584.html"
+    },
+    {
+        "age": 25,
+        "city": "Ростов-на-Дону",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-28985682.html"
+    },
+    {
+        "age": 31,
+        "city": "Ташкент",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-36346739.html"
+    },
+    {
+        "age": 31,
+        "city": "Томск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Тимлид, архитектор проекта, специалист по прототипированию, старший программист С++, C#, JavaScript, 3D, CAD, BIM",
+        "url": "https://www.superjob.ru/resume/cv-36307123.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++",
+        "url": "https://www.superjob.ru/resume/cv-36303683.html"
+    },
+    {
+        "age": 40,
+        "city": "Щелково",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, С#, Qt, Delphi, php / MS SQL",
+        "url": "https://www.superjob.ru/resume/cv-22036542.html"
+    },
+    {
+        "age": 23,
+        "city": "Оренбург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / Системный администратор",
+        "url": "https://www.superjob.ru/resume/cv-36228643.html"
+    },
+    {
+        "age": 32,
+        "city": "Саратов",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/С++",
+        "url": "https://www.superjob.ru/resume/cv-35324813.html"
+    },
+    {
+        "age": 24,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист С++",
+        "url": "https://www.superjob.ru/resume/cv-36204083.html"
+    },
+    {
+        "age": 23,
+        "city": "Уфа",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ / С#",
+        "url": "https://www.superjob.ru/resume/cv-36025336.html"
+    },
+    {
+        "age": 42,
+        "city": "Обнинск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист vba, c++, Pascal",
+        "url": "https://www.superjob.ru/resume/cv-36197839.html"
+    },
+    {
+        "age": 45,
+        "city": "Саратов",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-23595878.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35635823.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++",
+        "url": "https://www.superjob.ru/resume/cv-7862059.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-36146837.html"
+    },
+    {
+        "age": 22,
+        "city": "Химки",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ Software Developer",
+        "url": "https://www.superjob.ru/resume/cv-36143026.html"
+    },
+    {
+        "age": 41,
+        "city": "Новосибирск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист Visual Studio C# / С++",
+        "url": "https://www.superjob.ru/resume/cv-36115517.html"
+    },
+    {
+        "age": 42,
+        "city": "Нижний Новгород",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ Software Engineer",
+        "url": "https://www.superjob.ru/resume/cv-35210653.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C/C++",
+        "url": "https://www.superjob.ru/resume/cv-36101313.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший программист C/C++",
+        "url": "https://www.superjob.ru/resume/cv-36100793.html"
+    },
+    {
+        "age": 34,
+        "city": "Запорожье",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C / C++ developer for Windows",
+        "url": "https://www.superjob.ru/resume/cv-36099555.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик С#/C++",
+        "url": "https://www.superjob.ru/resume/cv-35759079.html"
+    },
+    {
+        "age": 36,
+        "city": "Москва",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист php, С++",
+        "url": "https://www.superjob.ru/resume/cv-25799211.html"
+    },
+    {
+        "age": 19,
+        "city": "Кострома",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-36050903.html"
+    },
+    {
+        "age": 27,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Software development C++",
+        "url": "https://www.superjob.ru/resume/cv-25288397.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер С/С++/С#",
+        "url": "https://www.superjob.ru/resume/cv-36011388.html"
+    },
+    {
+        "age": 31,
+        "city": "Чебоксары",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-36002444.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / C++",
+        "url": "https://www.superjob.ru/resume/cv-35111376.html"
+    },
+    {
+        "age": 33,
+        "city": "Алматы",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++ С#",
+        "url": "https://www.superjob.ru/resume/cv-28436846.html"
+    },
+    {
+        "age": 44,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35730780.html"
+    },
+    {
+        "age": 42,
+        "city": "Петрозаводск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++ / PHP",
+        "url": "https://www.superjob.ru/resume/cv-4862637.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35526420.html"
+    },
+    {
+        "age": 26,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист С++, инженер-конструктор, инженер-технолог",
+        "url": "https://www.superjob.ru/resume/cv-35471900.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший программист С++",
+        "url": "https://www.superjob.ru/resume/cv-31125382.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++/Python/C#",
+        "url": "https://www.superjob.ru/resume/cv-35955348.html"
+    },
+    {
+        "age": 29,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C# C++ ASP.NET MVC",
+        "url": "https://www.superjob.ru/resume/cv-35174550.html"
+    },
+    {
+        "age": 19,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Математик, Стажёр-программист C / C++",
+        "url": "https://www.superjob.ru/resume/cv-35917478.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35895922.html"
+    },
+    {
+        "age": 43,
+        "city": "Самара",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / С++",
+        "url": "https://www.superjob.ru/resume/cv-35892136.html"
+    },
+    {
+        "age": 36,
+        "city": "Орел",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, JavaScript, Python",
+        "url": "https://www.superjob.ru/resume/cv-8240043.html"
+    },
+    {
+        "age": 28,
+        "city": "Томск",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C#/C++",
+        "url": "https://www.superjob.ru/resume/cv-35871302.html"
+    },
+    {
+        "age": 21,
+        "city": "Архангельск",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист delphi, C++",
+        "url": "https://www.superjob.ru/resume/cv-35855752.html"
+    }
+][
+    {
+        "age": 29,
+        "city": "Уфа",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-35619494.html"
+    },
+    {
+        "age": 26,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист АСУ ТП, Инженер АСУ ТП, Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-25775605.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший программист C/C++",
+        "url": "https://www.superjob.ru/resume/cv-35821902.html"
+    },
+    {
+        "age": 30,
+        "city": "Чебоксары",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C / C++",
+        "url": "https://www.superjob.ru/resume/cv-35538265.html"
+    },
+    {
+        "age": 27,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/С++",
+        "url": "https://www.superjob.ru/resume/cv-35783796.html"
+    },
+    {
+        "age": 26,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ junior developer",
+        "url": "https://www.superjob.ru/resume/cv-29846026.html"
+    },
+    {
+        "age": 20,
+        "city": "Одинцово",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист c++/c#",
+        "url": "https://www.superjob.ru/resume/cv-35088851.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист PHP / C++ / Web-аналитик",
+        "url": "https://www.superjob.ru/resume/cv-9518794.html"
+    },
+    {
+        "age": 25,
+        "city": "Саратов",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C / C++",
+        "url": "https://www.superjob.ru/resume/cv-22498094.html"
+    },
+    {
+        "age": 34,
+        "city": "Дагомыс",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, С#",
+        "url": "https://www.superjob.ru/resume/cv-35747423.html"
+    },
+    {
+        "age": 25,
+        "city": "Томск",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Python / C++",
+        "url": "https://www.superjob.ru/resume/cv-34982417.html"
+    },
+    {
+        "age": 46,
+        "city": "Новосибирск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Ведущий программист С++ / C# / Системный архитектор",
+        "url": "https://www.superjob.ru/resume/cv-3765302.html"
+    },
+    {
+        "age": 29,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший программист / junior С / С++",
+        "url": "https://www.superjob.ru/resume/cv-35543681.html"
+    },
+    {
+        "age": 24,
+        "city": "Астрахань",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист PHP, C#, С++, web-программист, тестировщик ПО, специалист по информационной безопасности, аналитик баз данных",
+        "url": "https://www.superjob.ru/resume/cv-35677463.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-математик С++",
+        "url": "https://www.superjob.ru/resume/cv-35518541.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Младший разработчик / Стажер java, C++",
+        "url": "https://www.superjob.ru/resume/cv-35629487.html"
+    },
+    {
+        "age": 43,
+        "city": "Королев",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Руководитель группы разработчиков, Разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-9380375.html"
+    },
+    {
+        "age": 54,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-математик С++",
+        "url": "https://www.superjob.ru/resume/cv-35640686.html"
+    },
+    {
+        "age": 25,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-35629241.html"
+    },
+    {
+        "age": 29,
+        "city": "Воронеж",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35542725.html"
+    },
+    {
+        "age": 46,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер / Математик / Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-1154617.html"
+    },
+    {
+        "age": 27,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/С++, Инженер по тестированию ПО",
+        "url": "https://www.superjob.ru/resume/cv-8164088.html"
+    },
+    {
+        "age": 25,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C# / C++ developer",
+        "url": "https://www.superjob.ru/resume/cv-35426729.html"
+    },
+    {
+        "age": 24,
+        "city": "Город за рубежом",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Software Engineer C++ / GPGPU / Machine learning (Singapore)",
+        "url": "https://www.superjob.ru/resume/cv-35542236.html"
+    },
+    {
+        "age": 19,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист на C, C++, C#",
+        "url": "https://www.superjob.ru/resume/cv-35527111.html"
+    },
+    {
+        "age": 22,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ / java junior developer",
+        "url": "https://www.superjob.ru/resume/cv-35454851.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / Qt",
+        "url": "https://www.superjob.ru/resume/cv-5978374.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Стажер C++",
+        "url": "https://www.superjob.ru/resume/cv-35454010.html"
+    },
+    {
+        "age": 24,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++/C#",
+        "url": "https://www.superjob.ru/resume/cv-35484589.html"
+    },
+    {
+        "age": 27,
+        "city": "Краснодар",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-35482083.html"
+    },
+    {
+        "age": 23,
+        "city": "Ереван",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-математик С++",
+        "url": "https://www.superjob.ru/resume/cv-35331137.html"
+    },
+    {
+        "age": 26,
+        "city": "Харьков",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С/C++ qt",
+        "url": "https://www.superjob.ru/resume/cv-35361354.html"
+    },
+    {
+        "age": 48,
+        "city": "Новосибирск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C / C++",
+        "url": "https://www.superjob.ru/resume/cv-21019318.html"
+    },
+    {
+        "age": 20,
+        "city": "Ташкент",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист C++ QT",
+        "url": "https://www.superjob.ru/resume/cv-35434370.html"
+    },
+    {
+        "age": 40,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35353341.html"
+    },
+    {
+        "age": 55,
+        "city": "Кемерово",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист С++",
+        "url": "https://www.superjob.ru/resume/cv-22992491.html"
+    },
+    {
+        "age": 22,
+        "city": "Казань",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35376737.html"
+    },
+    {
+        "age": 20,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "C++ junior developer",
+        "url": "https://www.superjob.ru/resume/cv-35370542.html"
+    },
+    {
+        "age": 33,
+        "city": "Обнинск",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Системный администратор, Программист С++, Оператор БД",
+        "url": "https://www.superjob.ru/resume/cv-32703.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C / С++",
+        "url": "https://www.superjob.ru/resume/cv-35346869.html"
+    },
+    {
+        "age": 49,
+        "city": "Санкт-Петербург",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C / C++",
+        "url": "https://www.superjob.ru/resume/cv-32864743.html"
+    },
+    {
+        "age": 29,
+        "city": "Киев",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior C++ Engineer",
+        "url": "https://www.superjob.ru/resume/cv-35338762.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-33206615.html"
+    },
+    {
+        "age": 31,
+        "city": "Гомель",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35225522.html"
+    },
+    {
+        "age": 28,
+        "city": "Казань",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++, java, C#",
+        "url": "https://www.superjob.ru/resume/cv-35320193.html"
+    },
+    {
+        "age": 22,
+        "city": "Екатеринбург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35311747.html"
+    },
+    {
+        "age": 29,
+        "city": "Иркутск",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Системный администратор, Программист Delphi / C++ Builder",
+        "url": "https://www.superjob.ru/resume/cv-24327970.html"
+    },
+    {
+        "age": 26,
+        "city": "Краснодар",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++/C#",
+        "url": "https://www.superjob.ru/resume/cv-33060363.html"
+    },
+    {
+        "age": 37,
+        "city": "Город за рубежом",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C / C++",
+        "url": "https://www.superjob.ru/resume/cv-35280068.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++/Qt",
+        "url": "https://www.superjob.ru/resume/cv-35279437.html"
+    },
+    {
+        "age": 41,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Linux C / C++ / Java",
+        "url": "https://www.superjob.ru/resume/cv-32642253.html"
+    },
+    {
+        "age": 23,
+        "city": "Сергиев Посад",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C#/ C++, WEB-программист",
+        "url": "https://www.superjob.ru/resume/cv-32243153.html"
+    },
+    {
+        "age": 19,
+        "city": "Екатеринбург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35264162.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-34373260.html"
+    },
+    {
+        "age": 44,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C / C++",
+        "url": "https://www.superjob.ru/resume/cv-28408786.html"
+    },
+    {
+        "age": 38,
+        "city": "Минск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Senior C++ Developer",
+        "url": "https://www.superjob.ru/resume/cv-27742858.html"
+    },
+    {
+        "age": 29,
+        "city": "Новосибирск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-6140338.html"
+    },
+    {
+        "age": 20,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++ / программист-стажер / тестировщик",
+        "url": "https://www.superjob.ru/resume/cv-35040684.html"
+    },
+    {
+        "age": 52,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35059135.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-35044387.html"
+    },
+    {
+        "age": 39,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35105203.html"
+    },
+    {
+        "age": 24,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер C++",
+        "url": "https://www.superjob.ru/resume/cv-35035684.html"
+    },
+    {
+        "age": 32,
+        "city": "Электросталь",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, Java",
+        "url": "https://www.superjob.ru/resume/cv-21730343.html"
+    },
+    {
+        "age": 24,
+        "city": "Харьков",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-30188422.html"
+    },
+    {
+        "age": 31,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик С++",
+        "url": "https://www.superjob.ru/resume/cv-34970360.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист стажер С++ / С#",
+        "url": "https://www.superjob.ru/resume/cv-31215623.html"
+    },
+    {
+        "age": 45,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-34718739.html"
+    },
+    {
+        "age": 29,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior Developer C / C++",
+        "url": "https://www.superjob.ru/resume/cv-28060461.html"
+    },
+    {
+        "age": 31,
+        "city": "Новочеркасск",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист МК, C++ ARM",
+        "url": "https://www.superjob.ru/resume/cv-34241979.html"
+    },
+    {
+        "age": 28,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35048022.html"
+    },
+    {
+        "age": 28,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-стажер (С++)",
+        "url": "https://www.superjob.ru/resume/cv-34617461.html"
+    },
+    {
+        "age": 58,
+        "city": "Чехов",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-33038023.html"
+    },
+    {
+        "age": 37,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-35011493.html"
+    },
+    {
+        "age": 29,
+        "city": "Саратов",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Радиотехник / Программист C/C++, Arduino",
+        "url": "https://www.superjob.ru/resume/cv-35000700.html"
+    },
+    {
+        "age": 34,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C#/C++",
+        "url": "https://www.superjob.ru/resume/cv-34997535.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Стажер C++, junior c++",
+        "url": "https://www.superjob.ru/resume/cv-34985213.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист / стажер C++/C#",
+        "url": "https://www.superjob.ru/resume/cv-32946428.html"
+    },
+    {
+        "age": 22,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С / C++",
+        "url": "https://www.superjob.ru/resume/cv-34650025.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, html / css, sql",
+        "url": "https://www.superjob.ru/resume/cv-33463588.html"
+    },
+    {
+        "age": 22,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior Javascript/C++ developer",
+        "url": "https://www.superjob.ru/resume/cv-31468667.html"
+    },
+    {
+        "age": 53,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-разработчик Delphi, C#, C++",
+        "url": "https://www.superjob.ru/resume/cv-28349732.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-34912858.html"
+    },
+    {
+        "age": 33,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++/Qt",
+        "url": "https://www.superjob.ru/resume/cv-9358406.html"
+    },
+    {
+        "age": 23,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-34695200.html"
+    },
+    {
+        "age": 21,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "3d дизайнер, специалист C++",
+        "url": "https://www.superjob.ru/resume/cv-34703442.html"
+    },
+    {
+        "age": 27,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++/ C# / SQL",
+        "url": "https://www.superjob.ru/resume/cv-31979318.html"
+    },
+    {
+        "age": 24,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист PHP Python C++",
+        "url": "https://www.superjob.ru/resume/cv-24784125.html"
+    },
+    {
+        "age": 27,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист С++",
+        "url": "https://www.superjob.ru/resume/cv-34693460.html"
+    },
+    {
+        "age": 45,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Ведущий программист C++",
+        "url": "https://www.superjob.ru/resume/cv-5304632.html"
+    },
+    {
+        "age": 43,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++, разработчик алгоритмов, специалист по работе над нестандартными задачами",
+        "url": "https://www.superjob.ru/resume/cv-5275218.html"
+    },
+    {
+        "age": 24,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Разработчик C++",
+        "url": "https://www.superjob.ru/resume/cv-26341052.html"
+    },
+    {
+        "age": 29,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C#, C, C++, PHP, Wolfram Mathematica",
+        "url": "https://www.superjob.ru/resume/cv-21195370.html"
+    },
+    {
+        "age": 23,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": false,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-32885260.html"
+    },
+    {
+        "age": 54,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-33718509.html"
+    },
+    {
+        "age": 32,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист Objective C (mac / ios)/С++/3D",
+        "url": "https://www.superjob.ru/resume/cv-34735578.html"
+    },
+    {
+        "age": 27,
+        "city": "Москва",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист-Стажер C++ / C#",
+        "url": "https://www.superjob.ru/resume/cv-31949094.html"
+    },
+    {
+        "age": 36,
+        "city": "Курск",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Инженер-программист C/C++, инженер-электроник, инженер-программист микроконтроллеров",
+        "url": "https://www.superjob.ru/resume/cv-32412582.html"
+    },
+    {
+        "age": 25,
+        "city": "Москва",
+        "gender": "Женский",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист с++",
+        "url": "https://www.superjob.ru/resume/cv-34718958.html"
+    },
+    {
+        "age": 26,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Junior Java developer, Junior android developer, Junior c++ developer, Intern",
+        "url": "https://www.superjob.ru/resume/cv-34110297.html"
+    },
+    {
+        "age": 28,
+        "city": "Санкт-Петербург",
+        "gender": "Мужской",
+        "has_degree": true,
+        "keywords": [
+            "c++"
+        ],
+        "title": "Программист C++",
+        "url": "https://www.superjob.ru/resume/cv-30162662.html"
+    }
+]
