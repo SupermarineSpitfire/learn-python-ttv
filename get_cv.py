@@ -19,6 +19,7 @@
 
 import requests
 import json
+import analyze_cv
 
 
 def read_client_info():
@@ -44,7 +45,7 @@ def get_access_token(client_info):
 
 def get_keywords():
     keywords = []
-    entered_keywords = input("Please enter keywords to search CV: ")
+    entered_keywords = input("Please enter keywords to search CV:\n>>")
     keywords = entered_keywords.strip().split()
     for keyword in keywords:
         keyword.strip()
@@ -67,26 +68,46 @@ def get_cv_data_by_keyword(client_info, token, keywords, page=0):
     return result.json()["objects"]
 
 
-def save_cv_into_file(cv_list, keywords, file_open_mode="w"):
+def save_cv_list(cv_list, keywords):
+    cv_list_to_save = []
     cv_dict = {}
-    #cv_list_to_save = []
 
-    with open("cv_list.json", file_open_mode) as cv_json_file:
+    for cv in cv_list:
+        try:
+            cv_dict = produce_dictionary(cv, keywords)
+        except:
+            print("Something went wrong when parsing CV: %s" % (str(cv)))
+            continue
+        cv_list_to_save.append(cv_dict)
 
-        for cv in cv_list:
-            cv_dict["title"] = cv["profession"]
-            cv_dict["gender"] = cv["gender"]["title"]
-            cv_dict["age"] = cv["age"]
-            cv_dict["city"] = cv["town"]["title"]
-            cv_dict["keywords"] = keywords
-            cv_dict["url"] = cv["link"]
+    return cv_list_to_save
 
-            if cv["education"]["title"] == "Высшее":
-                cv_dict["has_degree"] = True
 
-            cv_json_file.write(str(cv_dict))
-            cv_json_file.write('\n')         
+def save_cv_list_into_file(cv_list_to_save):
+    with open("cv_list.json", "w") as cv_json_file:     
+        json.dump(cv_list_to_save, cv_json_file, ensure_ascii=False,  indent=4, sort_keys=True)
 
+
+def produce_dictionary(cv, keywords):
+    cv_dict = {}
+    cv_dict["title"] = cv["profession"]
+    cv_dict["gender"] = cv["gender"]["title"]
+    cv_dict["age"] = cv["age"]
+    cv_dict["city"] = cv["town"]["title"]
+    cv_dict["keywords"] = keywords
+    cv_dict["url"] = cv["link"]
+
+    try:
+        has_degree = cv["education"]["title"]
+    except:
+        has_degree = False  
+
+    if has_degree == "Высшее":
+        cv_dict["has_degree"] = True
+    else:
+        cv_dict["has_degree"] = False
+
+    return cv_dict
 
 
 if __name__ == '__main__':
@@ -94,12 +115,60 @@ if __name__ == '__main__':
     client_info = read_client_info()
     keywords = get_keywords()
     token = get_access_token(client_info)
-    file_open_mode = "w"
+
+    saved_cv_list = []
+    complete_cv_list = []
+    number_of_cv_list = 0
+
     for page in range(5):
         cv_list = get_cv_data_by_keyword(client_info, token, keywords, page)
         if cv_list:
-            save_cv_into_file(cv_list, keywords, file_open_mode)
+            saved_cv_list = save_cv_list(cv_list, keywords)
+            number_of_cv_list += len(saved_cv_list)
+            complete_cv_list.extend(saved_cv_list)
+            if len(saved_cv_list) < 100:
+                print("Total number of CV's returned: %d" % number_of_cv_list)
+                break
+
+    try:
+        save_cv_list_into_file(complete_cv_list)
+    except:
+        print("Something goes wrong with saving CV list into file.")
+
+    values_list = ["age", "city", "title", "gender", "has_degree"]
+    input_value = ""
+    filter_or_count_input_value = ""
+
+    while input_value == "":
+        input_value = input("\nPlease specify value to count or filter by.\
+                                \nGroup/filter is available for:\
+                                \n\tage, city, title, gender, has_degree.\
+                                \nTo exit please enter 'q' or 'Q'.\n>>")
+        input_value = input_value.strip()
+
+        if input_value.lower() == "q":
+            exit(0)
+
+        elif input_value not in values_list:
+            print("Specified value is unavailable in the current list.")
+            input_value = ""
+            continue
+
         else:
-            print("No CV for page %s" % page)
-            break
-        file_open_mode = "a"
+            json_file_object = analyze_cv.parse_json("cv_list.json")
+            if not json_file_object:
+                exit(0)
+
+            filter_or_count_input_value = input("\nWould you like to filter or count by? (C/F)\n>>")
+            filter_or_count_input_value.strip()
+
+            if filter_or_count_input_value.lower() == "c":
+                if input_value == "age":
+                    analyze_cv.print_filtered_links(analyze_cv.count_by_age_group(json_file_object))
+                else:
+                    analyze_cv.print_filtered_links(analyze_cv.count_by_value(json_file_object, input_value))
+
+            elif filter_or_count_input_value.strip().lower() == "f":
+                analyze_cv.print_filtered_links(analyze_cv.filter_links(json_file_object, input_value))
+            
+            input_value = ""
