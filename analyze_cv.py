@@ -48,7 +48,7 @@ def filter_links(json_file_object, filtering_parameter):
     return filterd_links_by_parameter
 
 
-def print_filtered_links(filtered_links={}):
+def print_result(filtered_links={}):
     if filtered_links == {}:
         print("No links available for specified parameter")
     else:
@@ -133,10 +133,10 @@ if __name__ == '__main__':
     count_or_filter_parameter = count_or_filter_parameter.strip().lower()
     if count_or_filter_parameter == "c":
         if filtering_parameter == "age":
-            print_filtered_links(count_by_age_group(json_file_object))
+            print_result(count_by_age_group(json_file_object))
         else:
-            print_filtered_links(count_by_value(json_file_object, filtering_parameter))
+            print_result(count_by_value(json_file_object, filtering_parameter))
     elif count_or_filter_parameter == "f":
-        print_filtered_links(filter_links(json_file_object, filtering_parameter))
+        print_result(filter_links(json_file_object, filtering_parameter))
     else:
         exit(0)

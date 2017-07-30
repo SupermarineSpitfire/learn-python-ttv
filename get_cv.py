@@ -164,11 +164,11 @@ if __name__ == '__main__':
 
             if filter_or_count_input_value.lower() == "c":
                 if input_value == "age":
-                    analyze_cv.print_filtered_links(analyze_cv.count_by_age_group(json_file_object))
+                    analyze_cv.print_result(analyze_cv.count_by_age_group(json_file_object))
                 else:
-                    analyze_cv.print_filtered_links(analyze_cv.count_by_value(json_file_object, input_value))
+                    analyze_cv.print_result(analyze_cv.count_by_value(json_file_object, input_value))
 
             elif filter_or_count_input_value.strip().lower() == "f":
-                analyze_cv.print_filtered_links(analyze_cv.filter_links(json_file_object, input_value))
+                analyze_cv.print_result(analyze_cv.filter_links(json_file_object, input_value))
             
             input_value = ""
